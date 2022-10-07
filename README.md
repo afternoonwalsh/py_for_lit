@@ -12,4 +12,4 @@ The script covers the following topics:
 7. Identifying parts of speech
 8. Plotting word occurrences over the course of a novel
 
-If you have any questions or suggestions on ways to analyze the text of novels using Python, feel free to email me at patrick.ml.walsh@gmail.com.
+If you have any questions or suggestions on ways to analyze the text of novels using natural language processing, feel free to email me at patrick.ml.walsh@gmail.com.
