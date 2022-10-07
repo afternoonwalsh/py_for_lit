@@ -1,6 +1,6 @@
-# Python For Literature
+# NLP For Literature
 
-This repository stores a Python script that explores the text of a novel. It is designed to share approaches that developers can use to analyze text (especially literature) using Python. 
+This repository stores a Python script that explores the text of a novel. It is designed to share approaches that developers can use to natural language processing to analyze literature (and other forms of text). 
 
 The script covers the following topics:
 1. Extracting and tokenizing text data from a PDF
